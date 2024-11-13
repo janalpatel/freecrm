@@ -1,0 +1,5 @@
+com\crm\qa\utilities\TestUtill.class
+com\crm\qa\base\TestBase.class
+com\crm\qa\pages\HomePage.class
+com\crm\qa\pages\BlogPage.class
+com\crm\qa\pages\ContactPage.class

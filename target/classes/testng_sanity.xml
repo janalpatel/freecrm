@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="amazon SuiteRunner">
+	<test name="amazon app test">
+		<classes>
+			<class name="com.crm.qa.testcases.ContactsPageTest" />
+			<class name="com.crm.qa.testcases.HomePageTest" />
+			
+		</classes>
+	</test> 
+</suite> 

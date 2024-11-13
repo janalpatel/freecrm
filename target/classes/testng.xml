@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Himal Patel Dominion Lending automation Test">
+	<listeners>
+		<listener class-name="com.qa.ExtentReportListener.ExtentReportListener" />
+	</listeners>
+	<test name="Dominion Lending">
+		<classes>			<class name="com.crm.qa.testcases.BlogPageTest" />
+			<class name="com.crm.qa.testcases.HomePageTest" />
+			<class name="com.crm.qa.testcases.ContactsPageTest" />
+		</classes>
+	</test>
+</suite> 

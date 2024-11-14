@@ -36,6 +36,10 @@ public class BlogPageTest extends TestBase {
 	public void searchdata() {
 		blogpg.login(prop.getProperty("blogdata"));
 	}
+	@Test(priority = 3)
+	public void print() {
+		System.out.println("git test");;
+	}
 
 	@AfterMethod
 	public void tearDownmethod() {

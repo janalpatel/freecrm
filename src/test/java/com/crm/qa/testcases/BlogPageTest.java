@@ -38,7 +38,7 @@ public class BlogPageTest extends TestBase {
 	}
 	@Test(priority = 3)
 	public void print() {
-		System.out.println("git test");;
+		System.out.println("git test55555");;
 	}
 
 	@AfterMethod
